@@ -21,7 +21,7 @@
     <hr style="width:80%", size="1", color="#ffffff">  
 
     <div class="col-12 text-center">
-      <p>Powered by <a href="https://www.gabewd.herokuapp.com">gabewd.herokuapp.com &copy; 2021</a></p>
+      <p>Powered by <a href="https://www.gabewd.com/">gabewd.com &copy;2021</a></p>
     </div>
   </footer>
   
@@ -31,4 +31,4 @@
   <span id="siteseal"><script async type="text/javascript" 
 	src="https://seal.godaddy.com/getSeal?sealID=W7Lx1svrKiy7PALOTIuwgBSQgfVbkTzfeddiTYJ5ONS7t0Nm4wq4xTIEXQUK"></script></span>
 
-  
+ 
